@@ -14,9 +14,11 @@
 - 💬 Puedes preguntarme por estos temas**React, redux, express, node js**
 
 - 📫 Me puedes contactar en mi Email **dfsuesc@gmail.com**
-- 📫 O tambien en mi numero de telefono o wa**+57 3053464280**
+- 📫 O tambien en mi numero de telefono o wa **+57 3053464280**
 
-- ⚡ Me caacterizo por: **Ser una persona muy feliz, que le gusta aprender y compartir su conocimiento**
+- ⚡ Me caracterizo por: **Ser una persona muy feliz, que le gusta aprender y compartir su conocimiento**
+
+- 🚀 Ultimamente trabaje con Firebase como herramienta de logueo para usuarios a una plataforma, meencanto, use un poco de firebe database, use el local storage para agregar favoritos de la pagina, cual quier duda o inquietud que tengas puedes contactarme y preguntar  🚀
 
 <h3 align="left">Te dejo acá mis redes 👇👇</h3>
 <p align="left">
