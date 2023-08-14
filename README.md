@@ -20,7 +20,7 @@
 
 - 🚀 Ultimamente trabaje con Firebase como herramienta de logueo para usuarios a una plataforma, meencanto, use un poco de firebe database, use el local storage para agregar favoritos de la pagina, cual quier duda o inquietud que tengas puedes contactarme y preguntar  🚀
 
-<h3 align="left">Te dejo acá mis redes 👇👇</h3>
+<h3 align="left">Te dejo acá mis redes 👇👇 </h3>
 <p align="left">
 <a href="https://linkedin.com/in/diegofersuescun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegofersuescun" height="30" width="40" /></a>
 <a href="https://fb.com/diego suescun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diego suescun" height="30" width="40" /></a>
