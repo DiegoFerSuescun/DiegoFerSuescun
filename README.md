@@ -2,7 +2,6 @@
 
 
 <h1 align="center">Hola 👋, Mi nombre Diego Suescun</h1>
-<h3 align="center">Apasionado por el desarrollo, colombiano</h3>
 
 - 🔭 Trabaje en un proyecto que te puede interersar se llama:  [Rick & Morty](https://github.com/DiegoFerSuescun/rm_diego38b.git)
 - 🔭 Trabajamos junto a un equipo en un proyecto que te puede interersar se llama: [Moto Online chile](https://github.com/Motoonline/motoonline_client/tree/ft-diegos)
